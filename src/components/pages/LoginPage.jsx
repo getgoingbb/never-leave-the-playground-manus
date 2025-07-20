@@ -147,20 +147,6 @@ const LoginPage = () => {
           </CardContent>
         </Card>
 
-        {/* Demo Credentials */}
-        <Card className="bg-blue-50 border-blue-200">
-          <CardContent className="pt-6">
-            <h3 className="text-sm font-semibold text-blue-900 mb-2">Demo Credentials</h3>
-            <p className="text-xs text-blue-800 mb-3">
-              Use these credentials to test the login functionality:
-            </p>
-            <div className="space-y-1 text-xs text-blue-800">
-              <p><strong>Email:</strong> demo@neverleavetheplayground.com</p>
-              <p><strong>Password:</strong> demo123</p>
-            </div>
-          </CardContent>
-        </Card>
-
         {/* Sign Up Link */}
         <div className="text-center">
           <p className="text-gray-600">
