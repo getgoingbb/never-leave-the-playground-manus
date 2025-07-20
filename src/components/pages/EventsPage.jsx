@@ -371,7 +371,7 @@ ${bookingForm.message}
             <h3 className="text-2xl font-bold mb-4">Have Questions?</h3>
             <p className="text-purple-100 mb-6 max-w-2xl mx-auto">
               For immediate assistance or to discuss your event requirements, 
-              feel free to contact us directly by filling out the form at the bottom of the page, or call anytime.
+              feel free to contact us directly by filling out the form at the bottom of the page (Newsletter & Speaking Info)and you can call anytime.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <a 
