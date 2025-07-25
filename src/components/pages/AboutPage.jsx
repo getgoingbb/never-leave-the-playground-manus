@@ -39,7 +39,7 @@ const AboutPage = () => {
             <div className="relative">
               <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8">
                 <img 
-                  src="/upload/stephen-profile.avif" 
+                  src="/stephen-profile.jpg" 
                   alt="Stephen Jepson" 
                   className="w-full h-auto rounded-xl shadow-2xl"
                 />
